@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **React, JS, NodeJS, ExpressJS**
 
-- 📫 How to reach me **thisismr900@gmail.com, 9749713882**
+- 📫 How to reach me **thisismr900@gmail.com
 
 
 ### Blogs posts
